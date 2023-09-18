@@ -1,0 +1,17 @@
+Layers of OSI Model
+
+The OSI (Open Systems Interconnection) model is a conceptual framework that standardizes and defines the functions of a telecommunication or networking system into seven distinct layers. It was developed by the International Organization for Standardization (ISO) to facilitate communication between different computer systems and networks.
+
+Physical Layer: This is the lowest layer and deals with the physical transmission of data over the network medium. It defines the hardware elements like cables, switches, and network adapters, as well as the electrical and mechanical characteristics of the transmission medium.
+
+Data Link Layer: This layer is responsible for creating a reliable link between two directly connected nodes, usually on the same physical network segment. It handles issues like framing, error detection, and flow control. Ethernet and Wi-Fi operate at this layer.
+
+Network Layer: The network layer is responsible for routing packets of data between different networks. It determines the best path for data to travel between the source and destination using logical addressing (e.g., IP addresses). Routers operate at this layer.
+
+Transport Layer: This layer ensures end-to-end communication by providing mechanisms for error detection and correction, as well as flow control. It segments and reassembles data into manageable chunks. Examples include TCP (Transmission Control Protocol) and UDP (User Datagram Protocol).
+
+Session Layer: The session layer establishes, manages, and terminates communication sessions between two devices. It helps in organizing data exchange and synchronization between applications.
+
+Presentation Layer: This layer is responsible for data translation, compression, encryption, and decryption. It ensures that data sent from one system can be properly understood by the receiving system, regardless of their internal data representations.
+
+Application Layer: The topmost layer, the application layer, directly interacts with end-user applications. It provides a platform-independent interface between the application and the lower layers of the OSI model. Examples of application layer protocols include HTTP (Hypertext Transfer Protocol), SMTP (Simple Mail Transfer Protocol), and FTP (File Transfer Protocol).
