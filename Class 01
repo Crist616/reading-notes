@@ -1,4 +1,4 @@
-Layers of OSI Model
+                Layers of OSI Model
 
 The OSI (Open Systems Interconnection) model is a conceptual framework that standardizes and defines the functions of a telecommunication or networking system into seven distinct layers. It was developed by the International Organization for Standardization (ISO) to facilitate communication between different computer systems and networks.
 
@@ -15,3 +15,29 @@ Session Layer: The session layer establishes, manages, and terminates communicat
 Presentation Layer: This layer is responsible for data translation, compression, encryption, and decryption. It ensures that data sent from one system can be properly understood by the receiving system, regardless of their internal data representations.
 
 Application Layer: The topmost layer, the application layer, directly interacts with end-user applications. It provides a platform-independent interface between the application and the lower layers of the OSI model. Examples of application layer protocols include HTTP (Hypertext Transfer Protocol), SMTP (Simple Mail Transfer Protocol), and FTP (File Transfer Protocol).
+
+The OSI model is a valuable tool for troubleshooting network issues because it provides a structured approach to understanding and analyzing the various layers of network communication. 
+
+
+
+                  What is Wireshark?
+
+Wireshark is a popular open-source network protocol analyzer and packet capture tool.
+
+                  What is a packet?
+
+A packet is a unit of data that is transmitted over a network. 
+
+                  What 3 high-level things does Wireshark accomplish?
+
+Wireshark can accomplish:  Packet Capture and Analysis: Allows users to capture packets traveling over a network or read packet capture files. 
+                           Protocol Decoding: Decode a wide range of network protocols, making it possible to interpret the contents of packets at a granular level.
+                           Visualization and Reporting: Provides tools for visualizing network traffic and generating reports.
+
+                  How could these be used for nefarious purposes? For benevolent purposes?
+
+Network Exploitation can be used as a nefarious purpose malicious actors can use Wireshark to capture and analyze network traffic to identify vulnerabilities, exploits, or confidential information like passwords, credit card numbers, or sensitive documents. 
+Network Troubleshooting can be used as a benevolent Purpose, diagnose and resolve network issues, such as connectivity problems, slow performance, or misconfigurations.
+
+Packet Spoofing and Injection can be used as a nefarious purpose, can be used to craft and inject malicious packets into a network.
+Security Monitoring can be used as a benevolent purpose Security professionals use Wireshark to monitor network traffic for signs of security threats, intrusion attempts, or malware activity.
