@@ -41,3 +41,8 @@ Network Troubleshooting can be used as a benevolent Purpose, diagnose and resolv
 
 Packet Spoofing and Injection can be used as a nefarious purpose, can be used to craft and inject malicious packets into a network.
 Security Monitoring can be used as a benevolent purpose Security professionals use Wireshark to monitor network traffic for signs of security threats, intrusion attempts, or malware activity.
+
+Eavesdropping can be used as a nefarious purpose, attackers can eavesdrop on network communications by capturing packets. This can be used for unauthorized surveillance.
+Protocol Development can be used as a benevolent purpose is valuable for developers working on network protocols or applications. It allows them to test and debug their software by examining how it interacts with other network components and ensuring protocol compliance.
+
+
