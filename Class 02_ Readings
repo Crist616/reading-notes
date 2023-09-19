@@ -1,0 +1,29 @@
+1.	What is a port? Describe it with an analogy that would help a family member understand.
+    So, a port on the internet is like a mailbox number for each specific house. It helps the internet know where to send the right information, just like how the mailbox number on your house helps the mail carrier deliver letters to the right room in your house.
+
+2.	What does a port scanner send to a port to check the current status?
+    A port scanner send a request to connect to a port. 
+
+3.	When a port scanner sends a request to connect, what are the three possible responses? Describe them.
+    
+    The three possible responses from the request are:
+1.	Open, accepted: The computer is ok to do anything for your.
+2.	Closed, not listening: This port is in use and not available.
+3.	Filtered or blocked: The computer does even bother to respond.
+
+4.	What is the difference between TCP and UDP?
+    TCP protocol sends packets with a prior request and make sure that the computer its ok to receive and confirms that he received the packet sent.
+    UDP protocol sends packets and dont even bother to check if the computer received. If it doesnt recieve is lost forever. (continous packet sending without any request or verify).
+
+Ports used on:
+    Telnet: Port tcp/23 not very secure, data not encripted. If you need to get a console screen from a remote device, this allows you to connect to that device remotely.
+    SSH: Port tcp/22 identical to telnet but as data encription.
+    Dns: Port 53 it uses UDP and TCP protocolo on the same port. This converts the name you are typing to the IP adress of the servisse.
+    SMTP: Simple mail transfer protocol (port 25), server to server communication (send emails over the internet).
+    HTTP: Hypertext transfer protocol (port 80).
+    HTTPS: Hypertext transfer protocol secure (port 443), is an encryted communication protocol.
+    RDP: Remote Desktop protocol (port tcp/3389) is used by remote acess software to see the desktop of a remote computer.
+    Ping: Utility to test the reachability of a host, doesnt rely on port numbers.
+
+
+
