@@ -1,0 +1,11 @@
+What is the main purpose for implementing NAT on a network?
+One of the main purpose to implement a Nat on the network is for security by blocking unsolicited incoming requests from the internet, another one is to translate private adresses. 
+
+At what layer of the OSI model does NAT happen?
+The Network address translator can work in 2 diferent layers, in layer 3 on static NAT and can happen in layer 4 using the information in TCP and UDP protocol headers. 
+
+What happens to packets when NAT runs out of addresses in the pool of available IPs?
+When NAT runs out of IP addresses the outcome vary depending on the specific NAT device and its configuration, it can block some ips to reach the network, it can recycle IP addresses from expired connections. 
+
+What disadvantage does using NAT pose for routers?
+NAT can have some disadvantages like bottlenecking the network with ips that dont have acess to the network, some aplications dont work properly with NAT, can affect performance in the network. 
