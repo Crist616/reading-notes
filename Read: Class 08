@@ -1,1 +1,20 @@
+Readings: RADIUS Authentication.
 
+        Computer Network - AAA (Authentication, Authorization and Accounting)
+      
+               Explain each of the three A’s as you would to a non-technical family member. Use an analogy or a story.
+
+Authentication - Proving It's You: Like is written authentication is proving that is you, for example a key to unlock a door, if you have the right key you can unlock the door and enter.
+Authorization - What You're Allowed to Do: So in authorization you already entered the door but this time authorization is allowing you to do certain things inside that door.
+Accounting - Keeping Track: Is like writing down what do you did inside that door and what things did you mess with. 
+
+                What should the administrator do if the ACS server fails to authenticate a user during AAA implementation?
+
+Well in first place we want to check if the resources of the ACS server are ok and check ACS configuration, then, we can verify the credentials are correct and check the connection and logs + error messages then see if the user is allowed to connect to ACS server. 
+
+                What is the role of the NAS in the AAA implementation using an ACS server? Use a diagram.
+
+NAS is going to be the intermediary between the user or device and the ACS server.
+
+
+        RADIUS Concepts
