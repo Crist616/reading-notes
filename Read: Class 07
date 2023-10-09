@@ -1,1 +1,10 @@
-missing files
+What are some common use cases for NGINX?
+NGINX can serve static and dynamic content as a web server, it can be used to implement rate limiting and request throttling to protect backend servers from excessive traffic.
+
+
+How does NGINX handle tasks that could slow down the web server?
+It can handle a large number of concurrent connection without the need for one thread or process per connection, it handle a large number of simultaneous connections with minimal resource overhead. 
+
+
+Describe, as if to a non-technical friend how to actually pronounce “NGINX”, and why an org might chooose to use it.
+NGINX is pronouced like Engine X, and is used to make organizations apps and websites faster and safer, like a magic tool that improves their online stuff.  
