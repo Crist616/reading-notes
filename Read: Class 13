@@ -1,0 +1,14 @@
+What exactly is “Active Directory” and are the key services it provides?
+Active directory is a central repository for information about objects in the network.
+
+
+What are the differences between a domain, forest, and tree in Active Directory?
+We can sai that Domain is a security boudary, a forest is another security boudary but used to isolate different part of the network from each other, a tree is set of domains.
+
+
+How can objects (e.g. users, devices) within a domain be grouped?
+They can be grouped as security groups, custom groups, dynamic groups, device containers and more. 
+
+
+Explain the benefits of Active Directory, as you would to a family member.
+Active Directory is like a family organizer for our computer network. It helps us keep our stuff safe, share things with the right people.
