@@ -1,1 +1,11 @@
+What role does Group Policy play in Windows Active Directory?
 
+    Group policy is a feature that allows administrators to manage and control the configuration settings for users and computers within a Windows domain, so its plays a huge role in Active Directory.
+
+Name and describe different ways GPOs can benefit security.
+
+    GPOs can benefit security by enforce password policy, configure account lockout settings, specify which users or groups have particular rights.
+
+How can the acronym “LSDOU” help you figure out which policies are in effect?
+
+    LSDOU can help figuring out which policies are in effect by understanding the order of the precedence in GPO´s.
