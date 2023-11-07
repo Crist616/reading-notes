@@ -1,0 +1,8 @@
+Explain the levels of abstraction in AWS to someone without a technical background.
+    AWS has different levels, from the foundational infrastructure to user-facing applications, and a control center to manage it all. It's like a toolbox for building things on the internet, making it easier for everyone, even without technical expertise.
+
+What are the control plane and data plane responsible for in container abstraction?
+    The control plane in container abstraction is responsible for managing and making decisions about containers, while the data plane handles the actual execution and data traffic within containers. Control plane focuses on orchestration and high-level management, while the data plane deals with the runtime operations of containers.
+
+Where does AWS Lambda fall in the layers of abstraction and what makes it so special?
+    AWS Lambda is an application-level service in AWS that offers serverless computing. What makes it special is its event-driven nature, cost-efficiency, versatility, and seamless integration with other AWS services, allowing developers to focus on code and application logic without worrying about server management.
