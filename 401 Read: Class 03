@@ -1,0 +1,16 @@
+Consider a bank ATM that allows users to access bank account balances. What measures can the ATM incorporate to cover the principles of the CIA triad?
+    To ensure that a bank ATM covers the principles of the CIA triad it must have a strong user authentication, secure PIN entry and protection, redundancy and failover mechanisms,
+    each meets the principles of the CIA triad. 
+
+Name three best practices that support the CIA triad.
+    We ca nsay that the best practices that support the CIA triad are:
+        Role-Based Access Control -  It ensures that users have access only to the resources and data necessary for their roles and helps in preventing unauthorized access or modifications to data.
+        Data Encryption - It involves encoding data in a way that makes it unreadable to unauthorized individuals.
+        Disaster Recovery Planning - Involves creating backup systems or resources to maintain service availability in case of hardware failures or other disruptions. 
+
+
+What are the three stages of the risk management lifecycle? What is each stage’s main goal or objective?
+    The three stages of the risk management lifecycle are:
+        Risk Assessment: Identify and analyze potential risks and threats.
+        Risk Mitigation: Develop and implement strategies to reduce or manage identified risks to an acceptable level.
+        Risk Monitoring and Review: Continuously monitor the status of risks and risk mitigation measures. 
