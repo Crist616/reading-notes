@@ -1,0 +1,5 @@
+Explain how hashing verifies data integrity using non-technical terms.
+      Think of hashing like creating a unique "fingerprint" for your message, its like sending your message with a secret code that ensures it hasn't been tampered with along the way.
+
+How is hashing and encryption different?
+      Hashing is like making a unique fingerprint of something and encryption is is like putting something in a secret box that only you and the person you want to share with have the key for.
