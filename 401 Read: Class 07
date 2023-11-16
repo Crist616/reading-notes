@@ -1,0 +1,5 @@
+From your day to day computer use, provide examples of when data is at rest and when it is in transit.
+      Data is at rest when it's saved on your computer (like files on your hard drive), and it's in transit when it's moving between devices or over the internet (like sending an email or downloading a file).
+
+Explain the role data encryption with regards to the CIA triad.
+      Encryption helps keep information private (confidentiality), by turning it into a secret code, and it ensures data hasn't been tampered with (integrity) during storage or transfer. This protects sensitive details and helps to maintain the trust of information.
