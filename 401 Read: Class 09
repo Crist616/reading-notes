@@ -1,0 +1,12 @@
+PKI, or Public Key Infrastructure, consists of three main components:
+    1- Public Key Cryptography
+    2- Certificate Authority (CA)
+    3- Registration Authority (RA)
+
+
+How would you explain, to a non-technical friend, the role PKI plays in protecting traffic between your browser and a web server.
+    PKI is like using special locks and keys when you send secret messages online. When you visit a website, your computer and the site create a secure connection, like sealing a letter in a locked box. Certificate Authorities make sure the locks are trustworthy, so your information stays private during its journey.
+
+
+What is the main weakness of the PKI architecture
+  One main weakness of the PKI (Public Key Infrastructure) architecture is the reliance on the security of private keys. If a user's private key is compromised or falls into the wrong hands, it can lead to unauthorized access
