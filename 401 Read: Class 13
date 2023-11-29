@@ -1,0 +1,9 @@
+What are the benefits of a forward proxy?
+      A forward proxy acts like a protective barrier for computers in a network, helping to control and filter internet traffic. It enhances security by hiding users.
+
+Explain the differences between a forward and a reverse proxy?
+      A forward proxy helps users in a network, access the internet while keeping their identity hidden. On the other hand, a reverse proxy protects a web server by managing and controlling incoming traffic, serving as a barrier between the internet and the server.
+
+Explain to your manager why your organization might benefit from implementing a reverse proxy?
+      Implementing a reverse proxy would enhance our organization's cybersecurity by acting as a guard for our web server, helping to protect it from online threats.
+
