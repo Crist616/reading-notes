@@ -1,0 +1,16 @@
+What are three tasks which SOCs often perform?
+      Security Operations Centers (SOCs) commonly perform three key tasks: 
+                                                             - Incident Detection: Monitoring and analyzing network activities to identify and respond to potential security incidents in real-time.
+                                                             - Incident Response: Implementing predefined procedures and strategies to mitigate and recover from security incidents, minimizing the impact on the organization.
+                                                             - Threat Intelligence Analysis: Evaluating and incorporating threat intelligence to stay informed about emerging cyber threats, enhancing proactive defense measures.
+
+Explain what a SIEM solution is and how the SOC utilizes it in non-technical terms.
+      A Security Information and Event Management (SIEM) solution is like a digital security guard for a company. It collects and analyzes information from all the computers to find any unusual activities that could be signs of a cyber threat. The SOC uses it to quickly spot and respond to potential security issues, helping to keep the digital environment safe.
+
+
+How does the typical SOC team structure resemble the structure of an IT Help Desk.
+      The SOC team structure is similar to an IT Help Desk in that both have specialists with different roles. While the IT Help Desk assists with general computer issues, the SOC team focuses on identifying and responding to cybersecurity threats to keep the digital environment secure.
+
+
+
+
