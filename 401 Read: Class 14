@@ -1,0 +1,8 @@
+List 2 differences between firewalls and an IDS?
+    Firewalls are like security gates verifying network trafic that is allowed or blocked on preset rules. An IDS watch for suspicious activities and alert the admin for potential security issues.
+
+Under what circumstances would you choose a network-based IDS over a host-based IDS?
+    We choose a network-based IDS when monitoring overwall network traffic for potential threats without installing software on individual computers, the host-based IDS you nedd to focus on the security of sprecific computers it checks threats for a particular system.
+
+Name 3 major drawbacks of a NIDS?
+    NIDS can assume false positivies on normal activity leadind to unnecessary alerts, if the traffic is encrypted NDIS cannot inspect it and it may struggle with high speed network traffic missing subtle attacks. 
