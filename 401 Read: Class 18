@@ -1,0 +1,9 @@
+Explain CloudWatch Events to a non-technical friend.
+      CloudWatch Events acts as a central message distributer for your AWS infrastructure, enabling you to monitor events and trigger actions based on specific conditions. It helps automate workflows, respond to events, and improve resource responsiveness.
+
+What do CloudWatch Logs helps us achieve?
+      CloudWatch Logs facilitates log collection and analysis, to effectively monitor, troubleshoot systems, and AWS services.
+
+
+What capabilities does CloudWatch Anomaly detection have?
+      CloudWatch Anomaly Detection uses machine learning to identify anomalous patterns, enabling you to proactively detect and address potential issues before they impact your applications or systems.
