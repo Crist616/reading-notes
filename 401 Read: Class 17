@@ -1,2 +1,11 @@
 What are some of the key features of the VPC model?
     Virtual private cloud is a network infrastructure in cloud that allow users to create isolated and customizable virtual networks in the cloud. 
+
+What are the three tiers that comprise the three-tier architecture model?
+    The three tiers are:
+            1 - Presentation Tier: Interacs directly with users.
+            2- Application tier: Process business logic and data access requests from the presentation tier.
+            3- Data tier: Provides access t odata for the application tier ensuring data integrity and security.
+
+Describe the differences between a VPC and a VPN to someone you know from your previous job
+    A VPC creates a private network within the cloud for secure resource isolation, while a VPN establishes a secure connection between devices over the internet for remote acces.
