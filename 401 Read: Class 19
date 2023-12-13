@@ -1,5 +1,5 @@
 What are some of the IoCs that GuardDuty can detect?
-    GuardDuty can detect a vast range of indicatos of compromis like RDS logs, data tempering involving S3 buckets, can exanime AWS firewall manager events to identify violations of security groups rules and other configurations and mutch more.
+    GuardDuty can detect a vast range of indicatos of compromise like RDS logs, data tempering involving S3 buckets, can exanime AWS firewall manager events to identify violations of security groups rules and other configurations and mutch more.
 
 What are some of the data sources which GuardDuty can use?
     GuardDuty can detect a vast range of indicatos of compromise on various sources like: EC2 instances, VPC Flow Logs, CloudTrail logs, DNS logs etc.
