@@ -1,0 +1,8 @@
+You just got a new job as a Cyber Threat Analyst, how would you explain your role to a family member?
+        As a Cyber Threat Analyst, my job is to protect our organization's computer networks and systems by identifying and analyzing potential cybersecurity threats, such as viruses, malware, and hacking attempts. I use various tools and techniques to monitor network traffic and analyze data, ensuring the security of sensitive information and preventing cyber attacks.
+
+Explain what makes PowerShell such an effective attack vector.
+      PowerShell's effectiveness as an attack vector stems from its deep integration with the Windows operating system and its powerful scripting capabilities, which allow attackers to execute complex commands and scripts to control systems and access sensitive data. Additionally, its ubiquity on Windows systems and ability to interact with numerous system components make it a preferred tool for attackers to exploit vulnerabilities and evade detection.
+
+What are two things you can do to mitigate attacks that leverage PowerShell?
+      To mitigate attacks leveraging PowerShell, firstly, implement strict execution policies to control and restrict the types of scripts that can be run, preventing unauthorized or malicious scripts from executing. Secondly, employ comprehensive logging and monitoring of PowerShell activities to detect and analyze suspicious behavior, aiding in the early identification and response to potential threats.
