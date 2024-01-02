@@ -1,0 +1,8 @@
+What is one of the major advantages of PowerShell Empire?
+    One of the major advantages of PowerShell Empire is its ability to manage and execute PowerShell scripts without the need for PowerShell.exe, making it stealthier in environments where PowerShell usage is monitored or restricted. 
+
+What are some of the APT groups that have been known to use PS Empire and into which step of the Cyber Kill Chain does the use of PS Empire fall?
+    APT29 also known as Cozy Bear and APT32 OceanLotus use PowerShell Empire typically falls into the 'Command and Control' step of the Cyber Kill Chain, where attackers establish a remote, interactive presence on a compromised system to execute commands and manipulate data.
+
+What are the four main components needed to pull off an attack using PS Empire?
+    To successfully execute an attack using PowerShell Empire, four main components are needed: a listener, which sets up a server to communicate with compromised systems; stagers, which are scripts or files that initiate communication with the listener; agents, which are the compromised systems that execute the stagers and communicate back to the listener; and modules, which are scripts or commands executed by the agents to perform specific tasks on the compromised systems.
