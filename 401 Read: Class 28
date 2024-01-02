@@ -1,0 +1,8 @@
+Explain some specifics of why a hacker might want to clear log files to a family member. Do not use the example from the article.
+    A hacker clears log files on a computer much like a burglar might clean up footprints or fingerprints at a crime scene.
+
+What are three methods by which you can clear logs in a Windows system?
+    On a Windows system, logs can be cleared through the Event Viewer GUI, using command-line tools like wevtutil or PowerShell cmdlets, or by writing custom scripts that target and delete specific log entries.
+
+What are the four steps in the process of covering your tracks.
+    In covering tracks during a cyber operation, the first step involves clearing system logs to erase evidence of the intruder's activities. The second step is to eliminate or modify files and command histories, disable or manipulate audit systems, and create false trails or decoys, all aimed at obscuring the hacker's methods and misleading investigators.
