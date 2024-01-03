@@ -1,0 +1,10 @@
+Explain threat modeling using real-world non-technical examples.
+    Threat modeling is like organizing a large outdoor event, where you anticipate and prepare for various scenarios such as weather, unexpected guest numbers, or technical difficulties to ensure the event runs smoothly.
+
+
+What are the four questions that can help us organize threat modeling?
+    The four key questions to guide threat modeling are: "What are we building?", "What can go wrong?", "What are we going to do about it?", and "Did we do a good job?".
+
+
+You are the project lead for a new application. How would you explain the benefits of Threat Modeling to the rest of the team?
+    As the project lead, I would explain to the team that threat modeling is a good approach to identify and mitigate potential security risks early in our application's development.
