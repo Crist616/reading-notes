@@ -1,0 +1,8 @@
+You just started a new job as a Malware Analyst. Explain your job responsibilities to a family member.
+     As a Malware Analyst my job is to study computer viruses to understand how they work and find ways to protect against them. 
+
+What are the six steps of the Malware Analysis process? What’s a good mnemonic you can use to remember it?
+    The six steps of the Malware Analysis process are Preparation, Identification, Containment, Eradication, Recovery, and Lessons Learned. A simple mnemonic to remember them is "PICERL".
+
+You are tasked with analyzing a new malware sample. Which type of malware analysis would you conduct first and why?
+      I would conduct static (offline) analysis first because it allows for examining the malware without executing it, reducing the risk and providing initial insights into its functionality.
