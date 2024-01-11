@@ -1,0 +1,16 @@
+Explain how a cross-site scripting attack works in non-technical terms.
+    A cross-site scripting attack is like tricking a website into delivering a harmful note to your computer, which then causes it to reveal sensitive information or do something it shouldn't.
+
+What are the three types of XSS attacks?
+    The three types of XSS attacks are: 1- Stored, where harmful code is saved on a website, 2- Reflected, where the code is directly sent back to a user's browser, and 3- DOM-based, where the attack happens within the user's browser through the webpage's structure itself.
+
+If an attacker successfully exploits a XSS vulnerability, what malicious actions would they be able to perform?
+    If an attacker exploits a cross-site scripting vulnerability, they can steal sensitive information, impersonate the user, or manipulate what the user sees on the website.
+
+What are some security controls that can be implemented to prevent XSS attacks?
+    To prevent XSS attacks, use strategies like validating and sanitizing user input, implementing Content Security Policy (CSP), and using secure programming practices to handle data safely.
+
+
+
+
+
