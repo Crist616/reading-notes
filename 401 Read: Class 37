@@ -1,0 +1,11 @@
+What are the three common stages of the Penetration Testing process and what tasks are performed at each one?
+    The three stages of penetration testing are: 1- Planning and Reconnaissance, where goals are set and information is gathered 2- Scanning, to find vulnerabilities and 3- Gaining and Maintaining Access, where these vulnerabilities are exploited to understand the damage potential.
+
+Explain a “main-in-the-middle proxy” in non-technical terms.
+    A "man-in-the-middle proxy" is like an eavesdropper secretly listening and possibly altering the conversation between two people, without them knowing.
+
+What are the 2 spiders available for use in ZAP?
+    The two spiders available in ZAP (Zed Attack Proxy) are the traditional spider, for crawling a website's structure, and the AJAX Spider, specifically for crawling web applications that use AJAX technologies.
+
+What situations are they best suited for?
+    The traditional spider in ZAP is best for simple, static websites, and the AJAX Spider is better for complex, dynamic web applications using AJAX technology.
