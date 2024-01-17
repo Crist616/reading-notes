@@ -1,0 +1,11 @@
+Explain how Burp Suite allows us to analyze web application traffic.
+    Burp Suite allows us to intercept, inspect, and modify the web traffic between our browser and the servers to analyze and test web applications' security.
+
+What does the Repeater tool allow us to do with requests?
+    The Repeater tool in Burp Suite enables us to manually modify and resend web requests to test the responses of web applications.
+
+Why might this be a useful tool for an attacker?
+    This tool is useful for attackers because it allows them to manipulate requests to discover vulnerabilities, such as input validation flaws or security misconfigurations, in web applications.
+
+
+
