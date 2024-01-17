@@ -1,0 +1,8 @@
+What is SQL injection?
+    SQL injection is a cyber attack where an attacker inserts malicious code into a database exploiting vulnerabilities to manipulate or access data.
+
+Can you give an example of how a hacker could use SQL injection to gain unauthorized access?
+    A hacker could use SQL injection by appending a command like ' OR '1'='1 to a login form's input field, tricking the system into granting access without proper authentication.
+
+What are some ways to prevent SQL injection attacks on a web server?
+    To prevent SQL injection attacks, use prepared statements with parameterized queries, validate and sanitize all user inputs, and employ web application firewalls.
