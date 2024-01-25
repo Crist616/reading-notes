@@ -1,0 +1,8 @@
+Explain a Sniffing attack using non-technical terms.
+      A sniffing attack is like watching digital conversations, where a hacker secretly intercepts and records data being exchanged over a network.
+
+What are the two types of sniffing attacks and what are some pros and cons of each approach?
+      The two types of sniffing attacks are passive sniffing, which quietly collects data without altering the network and is hard to detect. Active sniffing involves injecting traffic or manipulating the network to capture data, offering more data collection.
+
+How does encryption protect traffic against sniffing attacks?
+      Encryption scrambles data into a secret code, making it unreadable to anyone intercepting it without the correct decryption key.
