@@ -1,0 +1,6 @@
+Name the six credential-gathering techniques which Mimikatz is able to perform and explain how two of them work.
+    Mimikatz is capable of performing the following six credential-gathering techniques: Pass-the-Hash, Pass-the-Ticket, Over-Pass-the-Hash (Pass-the-Key), Kerberos Golden Ticket, Kerberos Silver Ticket, and DCSync.
+
+
+What are four ways we can defend against Mimikatz attacks. Explain how two of the mitigations can stop Mimikatz.
+    To defend against Mimikatz attacks use strong and unique passwords, enable Windows Defender Credential Guard, regularly update and patch systems, and restrict user and administrative privileges.
